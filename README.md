@@ -1,4 +1,4 @@
-# create database xampp
+# create database in xampp
 name : cinema_ticket_app
 # import database file into xampp
 cinema_ticket_app.sql
